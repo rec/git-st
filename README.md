@@ -1,5 +1,9 @@
 # git-st
 
+NOTE NOTE NOTE:  While I still monitor this repo for updates and pull requests, the official version of this is now [here](https://github.com/rec/gitz/).
+
+-----
+
 Nicer git status. It combines the output of ```git diff --stat``` with ```git status -sb```.
 
 ![Alt text](Screenshot.png?raw=true "Screenshot")
